@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+}
+
+.head-1 {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 60px;
+}
+
+.head-2 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 60px;
+}
+
+#form {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 90px;
+}
+
+.form-1 {
+    width: 300px;
+    height: 35px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+.btn {
+    padding: 10px 30px 10px 30px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: #b141dd;
+
+}
+
+.btn-1 {
+    text-decoration: none;
+    margin-left: 50px;
+    padding: 5px 20px 5px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #b141dd;
+    color: black;
+}
+
+.btn-2 {
+    text-decoration: none;
+    margin-left: 50px;
+    padding: 5px 20px 5px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #b141dd;
+    color: black;
+}
+
+/* .btn-2{
+    text-decoration: none;
+    margin-left: 565px;
+    padding: 10px 30px 10px 30px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: #b141dd;
+    color: black;
+}  */
+
+#logout-btn {
+    margin-left: 1200px;
+    padding: 10px 30px 10px 30px;
+    font-size: 25px;
+    border-radius: 20px;
+    background-color: #b141dd;
+    color: black;
+
+}
+
+.form-2 {
+    padding: 10px 30px 10px 30px;
+    font-size: 25px;
+    border-radius: 20px;
+    text-align: center;
+    color: black
+}
